@@ -5,6 +5,18 @@
     box-sizing: border-box;
 }
 
+/* Global Link Styles */
+a {
+    color: #D3D3D3;
+    text-decoration: none; /* Optional: removes underline */
+}
+
+/* Optional: Change link color when hovering */
+a:hover {
+    color: #ff0000; /* Red color when hovering over links */
+    text-decoration: underline; /* Optional: adds underline on hover */
+}
+
 body {
     margin: 0;
     padding: 0;
