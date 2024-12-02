@@ -14,14 +14,6 @@ body {
     line-height: 1.6;
 }
 
-/* === Banner Image Styles === */
-.banner {
-    width: 100%;
-    height: auto;
-    max-height: 400px;
-    object-fit: cover;
-}
-
 /* Alignment for Header Outside Container */
 .aligned-header {
     max-width: 800px;
